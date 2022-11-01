@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="Figma" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M6.667 7.333a4.667 4.667 0 0 1 4.667-4.667h4.667v9.333h-4.667a4.667 4.667 0 0 1-4.667-4.667zM16 2.667h4.667a4.667 4.667 0 0 1 0 9.334H16V2.668z"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M16 16.667a4.667 4.667 0 0 1 9.334 0 4.667 4.667 0 0 1-9.334 0zm0 0zM6.667 26a4.667 4.667 0 0 1 4.667-4.667h4.667V26a4.667 4.667 0 0 1-9.334 0zm0-9.333A4.667 4.667 0 0 1 11.334 12h4.667v9.333h-4.667a4.667 4.667 0 0 1-4.667-4.667z"/>
+    </symbol>
+    <symbol id="Twitter" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M30.667 4a14.37 14.37 0 0 1-4.084 2.013l-.103.027a5.973 5.973 0 0 0-10.479 4.004v-.004 1.333a14.197 14.197 0 0 1-11.97-5.996l-.03-.044s-5.333 12 6.667 17.333a15.387 15.387 0 0 1-9.364 2.666l.031.001c12 6.667 26.667 0 26.667-15.333 0-.372-.037-.741-.107-1.107a10.277 10.277 0 0 0 2.758-4.822L30.668 4zm0 0z"/>
+    </symbol>
+    <symbol id="Instagram" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M22.667 2.667H9.334a6.667 6.667 0 0 0-6.667 6.667v13.333a6.667 6.667 0 0 0 6.667 6.667h13.333a6.667 6.667 0 0 0 6.667-6.667V9.334a6.667 6.667 0 0 0-6.667-6.667z"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M21.333 15.16a5.329 5.329 0 0 1-2.878 5.546 5.337 5.337 0 0 1-6.169-.992 5.33 5.33 0 0 1 1.316-8.505 5.336 5.336 0 0 1 6.228.962 5.328 5.328 0 0 1 1.504 2.989zM23.333 8.667h.013"/>
+    </symbol>
+  </defs>
+</svg>
